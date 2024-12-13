@@ -49,8 +49,8 @@ Excited to collaborate on projects involving machine learning, big data, or inno
 ---
 
 ## 📈 **GitHub Stats**  
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivanisharmaF128&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanisharmaF128&layout=compact&theme=radical)  
 
 ---
 
