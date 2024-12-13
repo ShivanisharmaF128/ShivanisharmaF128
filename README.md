@@ -46,8 +46,8 @@ Excited to work on innovative, data-driven projects and tackle real-world challe
 ## 🌐 **Let's Connect**  
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shivanisharma_8)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https:www.kaggle.com/vanitech8)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/shivani-sharma-8b6047301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vanitech8)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivani-sharma-8b6047301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 
 ---
 
@@ -55,6 +55,5 @@ Excited to work on innovative, data-driven projects and tackle real-world challe
 ![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShivanisharmaF128&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivanisharmaF128&layout=compact&theme=radical)  
 
----
 
 Feel free to explore my repositories and let’s create amazing projects together! 🚀  
