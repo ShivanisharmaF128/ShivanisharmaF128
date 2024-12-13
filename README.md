@@ -1,17 +1,20 @@
 # Hi 👋, I’m Shivani Sharma  
-### Aspiring Data Scientist | MCA Student  
+### Aspiring Data Scientist | MCA Student 
 
-🔍 **Exploring the World of Data Science**  
-I’m on an exciting journey to master the art of transforming data into meaningful insights and impactful solutions.  
+---
 
-📊 **What I Do**  
-I specialize in Python, SQL, and visualization tools like Power BI and Tableau to uncover insights and craft compelling data stories. My passion lies in building machine learning models and working on real-world data-driven projects.  
 
-💡 **Lifelong Learner**  
-Currently pursuing my MCA and diving deep into the realms of data science, machine learning, and artificial intelligence.  
+🔍 **Exploring Insights**  
+Transforming raw data into meaningful insights to drive smarter decisions.  
 
-💼 **Open to Collaboration**  
-Excited to collaborate on projects involving machine learning, big data, or innovative web-based solutions that address real-world challenges.
+📊 **Data Analysis & Visualization**  
+Proficient in **Python**, **SQL**, **Power BI**, and **Excel**, crafting compelling data stories that inform and inspire.  
+
+💡 **Constant Learner**  
+Dedicated to continuously expanding my expertise in Data Science and Analytics.  
+
+💼 **Open to Collaborations**  
+Excited to work on innovative, data-driven projects and tackle real-world challenges together.  
 
 ---
 
